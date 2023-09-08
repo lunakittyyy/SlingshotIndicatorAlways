@@ -1,2 +1,2 @@
 # SlingshotIndicatorAlways
- always display the lives indicator on slingsots
+ always display the lives indicator on slingshots
