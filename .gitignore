@@ -1,2 +1,5 @@
 
 .vs/SlingshotIndicatorAlways/v17/.suo
+*.lock
+*.v2
+*.vsidx
